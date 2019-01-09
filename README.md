@@ -1,10 +1,10 @@
-# vueproject
+# Vue Project Template
 
-> A Vue.js project
+> A Vue.js project template
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
